@@ -2,7 +2,7 @@
 A raycaster written in Portugol Studio
 
 ## Introduction
-PortuRay is a project where I created a simple raycaster using Portugol Studio. Portugol Studio is a language designed to teach the basics of programming in Portuguese, not to create complex graphics applications :p.
+PortuRay is a project where I created a simple raycaster using Portugol Studio. Portugol Studio is a language designed to teach the basics of programming in Portuguese, not to create "complex"(it is actually very simple) graphics applications :p.
 
 ## Features
 - Written in **Portugol Studio**.
